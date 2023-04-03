@@ -1,0 +1,15 @@
+C:\Users\Ana\Desktop\GIT\AppClientes\bin\Debug\net6.0\AppClientes.exe
+C:\Users\Ana\Desktop\GIT\AppClientes\bin\Debug\net6.0\AppClientes.deps.json
+C:\Users\Ana\Desktop\GIT\AppClientes\bin\Debug\net6.0\AppClientes.runtimeconfig.json
+C:\Users\Ana\Desktop\GIT\AppClientes\bin\Debug\net6.0\AppClientes.dll
+C:\Users\Ana\Desktop\GIT\AppClientes\bin\Debug\net6.0\ref\AppClientes.dll
+C:\Users\Ana\Desktop\GIT\AppClientes\bin\Debug\net6.0\AppClientes.pdb
+C:\Users\Ana\Desktop\GIT\AppClientes\obj\Debug\net6.0\AppClientes.csproj.AssemblyReference.cache
+C:\Users\Ana\Desktop\GIT\AppClientes\obj\Debug\net6.0\AppClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\Desktop\GIT\AppClientes\obj\Debug\net6.0\AppClientes.AssemblyInfoInputs.cache
+C:\Users\Ana\Desktop\GIT\AppClientes\obj\Debug\net6.0\AppClientes.AssemblyInfo.cs
+C:\Users\Ana\Desktop\GIT\AppClientes\obj\Debug\net6.0\AppClientes.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Desktop\GIT\AppClientes\obj\Debug\net6.0\AppClientes.dll
+C:\Users\Ana\Desktop\GIT\AppClientes\obj\Debug\net6.0\ref\AppClientes.dll
+C:\Users\Ana\Desktop\GIT\AppClientes\obj\Debug\net6.0\AppClientes.pdb
+C:\Users\Ana\Desktop\GIT\AppClientes\obj\Debug\net6.0\AppClientes.genruntimeconfig.cache
